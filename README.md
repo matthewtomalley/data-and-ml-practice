@@ -1,5 +1,3 @@
-# Palmer Penguins
+# Data Science and Machine Learning Practice
 
-This project uses the classic Palmer Penguins dataset to explore analytics, visualization, and predictive modeling.
-
-All work done in penguins.ipynb
+This repo contains Jupyter notebooks where I practice and review using some educational datasets.
